@@ -5,9 +5,10 @@
 ### On this page, you can find links to my social media accounts on various platforms. Additionally, please feel free to browse my repositories to see if you find anything interesting or helpful. Thank you for visiting!
 
 
-<a href="https://www.linkedin.com/in/andreluizcoelho/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://medium.com/@andreluizcoelho"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/andreluizcoelho"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/> 
+<a href="https://www.linkedin.com/in/andreluizcoelho/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://medium.com/@andreluizcoelho"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/andreluizcoelho"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sololearn.com/profile/3480148"><img src="https://github.com/HenestrosaConH/sololearn/blob/main/docs/icon.png" alt="drawing" width="100"/>
 
-
+  
+  
 <!--
 
 <a href="https://www.youtube.com/@andreluizcoelho"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
