@@ -1,6 +1,6 @@
 ## Hello there!👋 Welcome to André Coêlho's GitHub profile.
 
-### I am originally from Recife, Brazil and hold a PhD and Masters in Economics. Additionally, I am fluent in Portuguese, English, and Spanish. I am actively seeking a job as a data analyst/data scientist. I hold citizenship in both Brazil and Portugal (E.U.), and Two-year Canadian Open Work Permit.
+### I am originally from Recife, Brazil and hold a PhD and Masters in Economics. Additionally, I am fluent in Portuguese, English, and Spanish. I am actively seeking a job as a data analyst/data scientist. 
 
 ### On this page, you can find my [portfolio website](https://andreluizcoelho.github.io/andrecoelhoportfolio/) and the links to my social media accounts on various platforms. Additionally, please feel free to browse my repositories to see if you find anything interesting or helpful. Thank you for visiting!
 
