@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 #### 5+ years of Data Science Experience: 
  - Internship roles to economic analyst positions
- - Contributed to Master’s and Ph.D. thesis, and served as a research and teaching assistant 
+ - Contributed to Master’s and Ph.D. thesis in Economics, and served as a research and teaching assistant 
 #### 5+ years of Teaching Experience: 
  - Instructed high school mathematics 
  - Taught economics and statistics at the college level
