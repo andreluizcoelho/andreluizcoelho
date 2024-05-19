@@ -1,5 +1,5 @@
 ## Hello there!👋 Welcome to André Coêlho's GitHub profile.
-### Ph.D. in Economics, Data Analyst. 
+### Ph.D., Data Analyst. 
 
 ### On this page, you can find my [portfolio website](https://andreluizcoelho.github.io/andrecoelhoportfolio/) and the links to my social media accounts on various platforms. Additionally, please feel free to browse my repositories to see if you find anything interesting or helpful. Thank you for visiting!
 
