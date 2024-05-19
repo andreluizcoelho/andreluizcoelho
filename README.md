@@ -1,27 +1,27 @@
 ## Hello there!👋 Welcome to André Coêlho's GitHub profile.
 
 ### Ph.D. and Masters in Economics, Data Analyst. 
-### 5+ years of Data Science Experience:  
-   ## Internship roles to economic analyst positions
-   ## Contributed to Master’s and Ph.D. thesis, and served as a research and teaching assistant 
-### 5+ years of Teaching Experience: 
-   ## Instructed high school mathematics 
-   ## Taught economics and statistics at the college level
-### 1+ year of Customer Service: 
-   ## Retail sales associate
-   ## Economic analyst role  
-### Communication skills: 
-   ## Effective communicator with clients and students
-   ## Ability to convey complex concepts clearly
-### Leadership and Collaboration: 
-   ## Proven track record of leading and motivating teams 
-   ## Collaborative approach to driving success for students and colleagues
-### Valid BC Driver’s License:
-   ## Full Class 5 driver’s license
-   ## Expires in June, 2026
-### Languages:
-   ## Fluent in English, Portuguese and Spanish
-   ## Beginner in German and French
+#### 5+ years of Data Science Experience:  
+   ##### Internship roles to economic analyst positions
+   ##### Contributed to Master’s and Ph.D. thesis, and served as a research and teaching assistant 
+#### 5+ years of Teaching Experience: 
+   ##### Instructed high school mathematics 
+   ##### Taught economics and statistics at the college level
+#### 1+ year of Customer Service: 
+   ##### Retail sales associate
+   ##### Economic analyst role  
+#### Communication skills: 
+   ##### Effective communicator with clients and students
+   ##### Ability to convey complex concepts clearly
+#### Leadership and Collaboration: 
+   ##### Proven track record of leading and motivating teams 
+   ##### Collaborative approach to driving success for students and colleagues
+#### Valid BC Driver’s License:
+   ##### Full Class 5 driver’s license
+   ##### Expires in June, 2026
+#### Languages:
+   ##### Fluent in English, Portuguese and Spanish
+   ##### Beginner in German and French
 
 ### On this page, you can find my [portfolio website](https://andreluizcoelho.github.io/andrecoelhoportfolio/) and the links to my social media accounts on various platforms. Additionally, please feel free to browse my repositories to see if you find anything interesting or helpful. Thank you for visiting!
 
