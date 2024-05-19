@@ -1,8 +1,8 @@
 ## Hello there!👋 Welcome to André Coêlho's GitHub profile.
 
 ### Ph.D. and Masters in Economics, Data Analyst. 
-#### __5+ years of Data Science Experience:__ 
- ##### Internship roles to economic analyst positions
+#### * 5+ years of Data Science Experience: 
+ - Internship roles to economic analyst positions
  - Contributed to Master’s and Ph.D. thesis, and served as a research and teaching assistant 
 #### 5+ years of Teaching Experience: 
    ##### Instructed high school mathematics 
