@@ -85,9 +85,6 @@ Here are some ideas to get you started:
 #### Leadership and Collaboration: 
  - Proven track record of leading and motivating teams 
  - Collaborative approach to driving success for students and colleagues
-#### Valid BC Driver’s License:
- - Full Class 5 driver’s license
- - Expires in June, 2026
 #### Languages:
  - Fluent in English, Portuguese and Spanish
  - Beginner in German and French
