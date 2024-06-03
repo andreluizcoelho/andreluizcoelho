@@ -68,24 +68,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-#### 5+ years of Data Science Experience: 
- - Internship roles to economic analyst positions
- - Completed Master’s and Ph.D. theses in Economics, and served as a research and teaching assistant 
-#### 5+ years of Teaching Experience: 
- - Instructed high school mathematics 
- - Taught economics and statistics at the college level
-#### 1+ year of Customer Service: 
- - Retail sales associate
- - Economic analyst role  
-#### Communication skills: 
- - Effective communicator with clients and students
- - Ability to convey complex concepts clearly
-#### Leadership and Collaboration: 
- - Proven track record of leading and motivating teams 
- - Collaborative approach to driving success for students and colleagues
-#### Languages:
- - Fluent in English, Portuguese and Spanish
- - Beginner in German and French
-
+Summary of Qualifications
+● Five years of experience in data science, involving both Ph.D. and Master’s degrees, as well as roles as an economic analyst, research assistant, and teaching assistant
+● Seven years of teaching experience, both as a math high school teacher and as a professor of economics and statistics
+● Over one year of customer service experience, working as a retail sales associate and an economic analyst 
+● Exceed 50% target in school standardized exams and played a role in reducing student evasion by 20%
+● Contributed to a 10% increase in sales targets through focusing on client satisfaction and inventory management 
+● Fluent in English, Portuguese and Spanish, with beginner proficiency in German and French
