@@ -8,6 +8,11 @@
   .social-links a {
     margin-right: 20px; /* Adjust the spacing as needed */
     text-decoration: none; /* Ensure no underline is applied */
+    border: none; /* Remove any border */
+    outline: none; /* Remove any outline */
+  }
+  .social-links a img {
+    vertical-align: middle; /* Ensure images align properly */
   }
 </style>
 
@@ -55,6 +60,7 @@
     <img src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="drawing" width="45"/>
   </a>
 </div>
+
 <!--
 
 <a href="https://www.datacamp.com/certificate/DAA0012896738267"><img src="https://res.cloudinary.com/dyd911kmh/image/upload/v1659085702/Certification/Badges%202022/data-analyst-associate-badge.svg" alt="drawing" width="55"/>&nbsp;&nbsp;&nbsp;&nbsp
