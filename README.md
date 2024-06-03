@@ -69,9 +69,9 @@ Here are some ideas to get you started:
 -->
 
 ## Summary of Qualifications
-### Five years of experience in data science, involving both Ph.D. and Master’s degrees, as well as roles as an economic analyst, research assistant, and teaching assistant
-### Seven years of teaching experience, both as a math high school teacher and as a professor of economics and statistics
-### Over one year of customer service experience, working as a retail sales associate and an economic analyst 
-### Exceeded 50% target in school standardized exams and played a role in reducing student evasion by 20%
-### Contributed to a 10% increase in sales targets through focusing on client satisfaction and inventory management 
-### Fluent in English, Portuguese and Spanish, with beginner proficiency in German and French
+- Five years of experience in data science, involving both Ph.D. and Master’s degrees, as well as roles as an economic analyst, research assistant, and teaching assistant
+- Seven years of teaching experience, both as a math high school teacher and as a professor of economics and statistics
+- Over one year of customer service experience, working as a retail sales associate and an economic analyst 
+- Exceeded 50% target in school standardized exams and played a role in reducing student evasion by 20%
+- Contributed to a 10% increase in sales targets through focusing on client satisfaction and inventory management 
+- Fluent in English, Portuguese and Spanish, with beginner proficiency in German and French
