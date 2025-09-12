@@ -68,9 +68,28 @@ Here are some ideas to get you started:
 -->
 
 ## Summary of Qualifications
-- Five years of experience in data science, involving both Ph.D. and Master’s degrees, as well as roles as an economic analyst, research assistant, and teaching assistant
-- Seven years of teaching experience, both as a math high school teacher and as a professor of economics and statistics
-- Over one year of customer service experience as a retail sales associate and an economic analyst
-- Exceeded 50% target in school standardized exams and played a role in reducing student evasion by 20%
-- Contributed to a 10% increase in sales targets through focusing on client satisfaction and inventory management 
-- Fluent in English, Portuguese and Spanish, with beginner proficiency in German and French
+Summary
+I am a motivated and results-oriented Data Analyst and Business Intelligence professional with a strong foundation in Economics and a Ph.D. I am skilled at delivering successful outcomes in data science, complemented by hands-on professional experience. I am passionate about leveraging data to solve complex problems and drive strategic decision-making, and I'm particularly interested in both machine learning and causal inference.
+
+Professional Experience:
+• Business Intelligence Analyst: Developed and managed interactive Power BI dashboards to enhance business visibility. Utilized Python and PL/SQL to streamline ETL processes and presented actionable insights to stakeholders.
+• AI Trainer: Refined generative AI models, critically reviewed AI-generated text for accuracy, and crafted effective prompts to ensure high-quality, factual content.
+• Economic Analyst, Professor and Research Assistant: Gained 5 years of data science experience during my Ph.D. and Master’s degrees, complemented by professional experience in economic analysis and research.
+
+Technical Skills & Methodologies:
+• Adept at qualitative and quantitative data analysis using descriptive and statistical methodologies.
+• Proficient in: Statistics, Excel, Python (Scikit-learn, NumPy, Pandas, Matplotlib, Plotly), R, SQL, Tableau, Power BI, Word, PowerPoint, QGIS, Stata, and MatLab.
+• Data Management: Skilled in data management, preparation, data extraction, data cleaning, and documentation.
+
+Notable Projects
+• WORKPLACE WELLNESS: AN ANALYSIS OF FIRM AND INDIVIDUAL FACTORS IN THE LEAST HEALTHY SECTORS - Ph.D. Thesis
+• COVID-19 DATA ANALYTICS AND MODELING - Coursework Project
+• THE IMPACT OF PHYSICIANS’ DECENTRALIZATION ON HEALTH SERVICES AND ECONOMIC GROWTH - Master's Thesis
+
+Contact & Portfolio
+I'm passionate about connecting with new individuals and exploring opportunities that leverage my diverse skill set.
+• Email: andrecoelhophd@gmail.com
+• Portfolio: https://andreluizcoelho.github.io/andrecoelhoportfolio
+• GitHub: https://github.com/andreluizcoelho
+• Medium: https://medium.com/@andreluizcoelho
+• Languages: Fluent in English, Portuguese, and Spanish.
