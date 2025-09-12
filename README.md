@@ -73,34 +73,23 @@ I am a motivated and results-oriented Data Analyst and Business Intelligence pro
 
 Professional Experience
  • Business Intelligence Analyst: Developed and managed interactive Power BI dashboards to enhance business visibility. Utilized Python and PL/SQL to streamline ETL processes and presented actionable insights to stakeholders.
-
  • AI Trainer: Refined generative AI models, critically reviewed AI-generated text for accuracy, and crafted effective prompts to ensure high-quality, factual content.
-
  • Economic Analyst, Professor, and Research Assistant: Gained 5 years of data science experience during my Ph.D. and Master's degrees, complemented by professional experience in economic analysis and research.
 
 Technical Skills & Methodologies
  • Adept at qualitative and quantitative data analysis using descriptive and statistical methodologies.
-
  • Proficient in: Statistics, Excel, Python (Scikit-learn, NumPy, Pandas, Matplotlib, Plotly), R, SQL, Tableau, Power BI, Word, PowerPoint, QGIS, Stata, and MatLab.
-
  • Data Management: Skilled in data management, preparation, data extraction, data cleaning, and documentation.
 
 Notable Projects
  • WORKPLACE WELLNESS: AN ANALYSIS OF FIRM AND INDIVIDUAL FACTORS IN THE LEAST HEALTHY SECTORS - Ph.D. Thesis
-
  • COVID-19 DATA ANALYTICS AND MODELING - Coursework Project
-
  • THE IMPACT OF PHYSICIANS’ DECENTRALIZATION ON HEALTH SERVICES AND ECONOMIC GROWTH - Master's Thesis
 
 Contact & Portfolio
  • I'm passionate about connecting with new individuals and exploring opportunities that leverage my diverse skill set.
-
  • Email: andrecoelhophd@gmail.com
-
  • Portfolio: https://andreluizcoelho.github.io/andrecoelhoportfolio
-
  • GitHub: https://github.com/andreluizcoelho
-
  • Medium: https://medium.com/@andreluizcoelho
-
  • Languages: Fluent in English, Portuguese, and Spanish.
